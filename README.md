@@ -1,7 +1,6 @@
 # Lucas Santos
 
-Olá meu nome é Lucas sou estudante de análise e desenvolvimento de sistemas, apaixonado por tecnologia.
-estou atualmente aprimorando meus conhecimentos.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por resolver problemas complexos com soluções inovadoras. Atualmente, estou mergulhando no mundo da programação em Java, aprimorando minhas habilidades para criar aplicações robustas e eficientes. 
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-dev-santos/)
